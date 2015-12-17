@@ -1,3 +1,7 @@
+# Currently nothing special here! I created this fork because i want to try react/react-native in combination
+# with react/react-native material design! - Just starting some experiments!
+# Thx to original author! Great work!
+
 # A mobile, desktop and website App with the same code
 
 [![Build Status](https://travis-ci.org/benoitvallon/react-native-nw-react-calculator.svg?branch=master)](https://travis-ci.org/benoitvallon/react-native-nw-react-calculator) [![Dependency Status](https://david-dm.org/benoitvallon/react-native-nw-react-calculator.svg)](https://david-dm.org/benoitvallon/react-native-nw-react-calculator) [![devDependency Status](https://david-dm.org/benoitvallon/react-native-nw-react-calculator/dev-status.svg)](https://david-dm.org/benoitvallon/react-native-nw-react-calculator#info=devDependencies)
